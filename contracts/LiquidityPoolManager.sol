@@ -278,6 +278,10 @@ contract LiquidityPoolManager is
         return feePercentages;
     }
 
+    function getTreasuryAddress() external view returns (address) {
+        return feeAddresses[0];
+    }
+
     // Owner functions
 
     function setAllowance(bool active) public onlyOwner {

@@ -23,4 +23,6 @@ interface ILiquidityPoolManager {
     function isLiquidityAdded() external view returns (bool);
 
     function afterTokenTransfer(address sender) external returns (bool);
+
+    function getTreasuryAddress() external view returns (address);
 }
