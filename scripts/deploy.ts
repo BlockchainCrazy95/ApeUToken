@@ -144,9 +144,20 @@ Marketing:
 0x0c8A8ea1d30C821228c551043661327406D240Dc
 Donation:
 0x6C6b1903e33723Df753eBa535418a0E2FD28e7A4
+*/
 
+/*
+Final Version
+Final Liquidity(client):
+84cf9d15e97ca45b526041b7cb42be0dd9756ba1735861c5270b9ecceb20cab9
+0x296B8D4bD0F69ea5b2302f80E66396b22c389dC8
 
+PlanetManagerProxy: 0xad141b75c9ffb4233647a90a9265553b985820f0 
+PlanetManagerProxy.Impl: 0x2322e4784fe79863b7dce05f93f1ae0241a8b5cc
 
-Final Liquidity P
+ApeUniverse: 0xb127158ca94bb9b8ee01dc5df6575897f2c62c36
+LiquidityPoolManager: 0x2eaa23048c8ab27fb619572ccdda21a089c15e44
+WalletObserverProxy: 0xa929a61dda92bc288f453d04dfbe629cb6872b57
+WalletObserverProxy.Impl: 0x1d7ffbf4b6f4068d0785e5278b1854485ce58207
 
 */

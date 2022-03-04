@@ -182,7 +182,7 @@ contract PlanetsManagerUpgradeable is
     );
 
     function initialize() external initializer {
-        __ERC721_init("Universe Ecosystem", "PLANET");
+        __ERC721_init("APE Universe Ecosystem", "PLANET");
         __Ownable_init();
         __ERC721Enumerable_init();
         __ERC721URIStorage_init();
